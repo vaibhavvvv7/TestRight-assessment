@@ -1,0 +1,9 @@
+Warning: skipping row 13 because temperature 'not_a_number' is invalid.
+Warning: skipping row 14 because device_id is missing.
+Device ID | Records | Avg Temp | Errors
+----------+---------+----------+-------
+DEV_A     | 3       | 75.33    | 1
+DEV_B     | 3       | 67.67    | 1
+DEV_D     | 3       | 80.00    | 1
+
+Saved JSON summary to: device_summary.json
